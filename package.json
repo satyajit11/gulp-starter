@@ -1,0 +1,33 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "gulp starter kit for biggner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyajit11/gulp-starter.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "satyajit rout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyajit11/gulp-starter/issues"
+  },
+  "homepage": "https://github.com/satyajit11/gulp-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.5.0",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^2.2.0"
+  }
+}
